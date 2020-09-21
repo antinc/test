@@ -1,0 +1,28 @@
+{
+  "name": "roguevader",
+  "version": "1.0.0",
+  "description": "First assignment for netcentric",
+  "engines": {
+        "node": "12.x"
+  },
+  "main": "textFile.js",
+  "scripts": {
+    "start": "node textFile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antinc/rogueVader.git"
+  },
+  "keywords": [
+    "nodejs",
+    "spu",
+    "heroku"
+  ],
+  "author": "Cooper Antin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antinc/rogueVader/issues"
+  },
+  "homepage": "https://github.com/antinc/rogueVader#readme"
+}
